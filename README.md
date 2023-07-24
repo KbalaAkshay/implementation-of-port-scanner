@@ -10,5 +10,8 @@ Port scanners are commonly used for both legitimate and malicious purposes. On t
 It's essential to use port scanning responsibly and ethically, respecting the laws and policies in place, as unauthorized or malicious port scanning can be considered illegal and harmful.
 
 #HOW TO RUN
+
+
+
 Download all the portscanner files and save the files with the class names and makes sure that jdk is present in your system and run the files in command prompt by providing the IP address and you can verify by the two files refer the images folder to get more clarity about it
 
