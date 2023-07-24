@@ -1,4 +1,4 @@
-#PORT SCANNER
+# PORT SCANNER
 
 
 A port scanner is a software tool or application designed to probe a computer network to discover which ports on a particular host are open or closed. In computer networking, a port is a communication endpoint that allows different applications and services to exchange data over the network.
@@ -9,7 +9,7 @@ Port scanners are commonly used for both legitimate and malicious purposes. On t
 
 It's essential to use port scanning responsibly and ethically, respecting the laws and policies in place, as unauthorized or malicious port scanning can be considered illegal and harmful.
 
-#HOW TO RUN
+# HOW TO RUN
 
 
 
